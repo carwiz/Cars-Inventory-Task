@@ -66,6 +66,7 @@ In this page, the user can edit his inventory. The allowed operations are:
 
 ## Before Submitting
 * Make sure to use clean code.
+* The website should be responsive
 * Make use of tools that will help you with standtard [formatting](https://prettier.io/) an [linting](https://eslint.org/).
 * Your data should be presistent and well structured. When choosing a storage mechanism, consider it's pros and cons, use whatever suites the problem at hand, use proper entities and relations. (You can choose whatever storage solution you like)
 * You might be required to explain your implementation, make sure you understand all your code.
