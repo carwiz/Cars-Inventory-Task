@@ -1,5 +1,5 @@
 # Cars Inventory Task
-Welcome to the Cars Inventory application exam. This app is simple web application that allows customers to manage their cars inventory, with an easy, user friendly interface.
+Welcome to the Cars Inventory application exam. This app is simple and responsive web application that allows customers to manage their cars inventory, with an easy, user friendly interface.
 
 Your technological stack will be:
 * Frontend: React.js
